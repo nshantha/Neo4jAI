@@ -80,7 +80,7 @@ Make sure your Neo4j database is running and accessible with the credentials spe
 6. **Run the application**
 
 ```bash
-python run.py
+python ./run.py
 ```
 
 This will:
@@ -137,6 +137,3 @@ The combined approach allows you to:
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
