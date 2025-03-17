@@ -1,0 +1,11 @@
+streamlit>=1.22.0
+openai>=1.0.0
+neo4j>=5.8.0
+python-dotenv>=1.0.0
+pytest>=7.3.1
+mcp-neo4j-cypher>=0.1.0
+langchain>=0.1.0
+langchain-openai>=0.0.1
+langgraph>=0.0.20
+pydantic>=2.0.0
+mcp-neo4j-cypher
