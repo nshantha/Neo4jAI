@@ -28,7 +28,6 @@ env/
 
 # Environment variables
 .env
-.env.*
 
 # Sensitive data
 src/prompts_private.py
